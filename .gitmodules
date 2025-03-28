@@ -1,0 +1,6 @@
+[submodule "VoiceChef-Front"]
+	path = VoiceChef-Front
+	url = https://github.com/2group1team/VoiceChef-Front.git
+[submodule "VoiceChef-Back"]
+	path = VoiceChef-Back
+	url = https://github.com/2group1team/VoiceChef-Back.git
