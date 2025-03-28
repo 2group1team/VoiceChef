@@ -10,6 +10,6 @@
 ### Ссылки на сервисы
 * [Jira](https://voicechefapp.atlassian.net/jira/core/projects/VC/board?groupBy=status)
 * [Figma](https://www.figma.com/design/f7jYuE97cM14pLokEtdwPN/VoiceChef?node-id=0-1&p=f&t=xuQs1zSbPNAgo6gQ-0)
-* [Miro](ссылка)
+* [Miro](https://miro.com/app/board/uXjVIMGWVtc=/?share_link_id=181449537556)
 
 ### Ссылки на документацию
