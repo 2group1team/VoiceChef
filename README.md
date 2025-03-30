@@ -23,3 +23,11 @@
 * [Диаграммы](https://github.com/2group1team/VoiceChef/tree/master/Documentation/Diagrams)
 * [Презентация](https://github.com/2group1team/VoiceChef/blob/master/Documentation/Presentation/Presentation.pptx)
 * [Правила коммитов](https://github.com/2group1team/VoiceChef/blob/master/Documentation/Commits/README.md)
+
+### Проверка
+* [Чеклист](https://docs.google.com/spreadsheets/d/1yGnLquVTxPcGxP5yg3C9UTXUARwv2YGHegqEgPNnFWM/edit?gid=116236438#gid=116236438)
+* Нас оценили:
+  * [Команда 1.1](https://docs.google.com/spreadsheets/d/1TkkNAfymy03UyZurFbbVLIurNk5RJR-yKNPpU5rKRvw/edit?gid=116236438#gid=116236438)
+  * [Команда 1.2](https://docs.google.com/spreadsheets/d/1N2VNP7KQ8e5stoPP6Exh-BIzoYfDbmXog0uCsfQPa2w/edit?gid=116236438#gid=116236438)
+  * [Команда 1.3](https://docs.google.com/spreadsheets/d/1u5pm8Rp8lp9xEYSzHtrhVUy3dhCtAyKt3cOX3YMu4Kk/edit?gid=116236438#gid=116236438)
+  * [Команда 2.2]()
