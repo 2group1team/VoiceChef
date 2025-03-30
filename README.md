@@ -1,6 +1,7 @@
 # VoiceChef
 
 ### Приложение для готовки с озвучкой рецептов, подбором ингредиентов и взаимодействием при помощи голоса.
+* [Видео презентации](https://drive.google.com/file/d/1Lue6Il603UtwVpSEQiSF3k9dcCr9zZRc/view?usp=sharing)
 
 ### Участники
 * [Щербаков Никита](https://github.com/Nikas2604) - team lead, project manager
