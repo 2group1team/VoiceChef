@@ -10,6 +10,9 @@
 * [Аксенова Марина](https://github.com/hhskt) - DevOps, дизайнер
 ### Сервисы
 * [Jira](https://voicechefapp.atlassian.net/jira/core/projects/VC/board?groupBy=status)
+  * Аккаунт для просмотра:
+    * Логин: voicechef2g1c@gmail.com
+    * Пароль: Qwerty123!!!
 * [Figma](https://www.figma.com/design/f7jYuE97cM14pLokEtdwPN/VoiceChef?node-id=0-1&p=f&t=xuQs1zSbPNAgo6gQ-0)
 * [Miro](https://miro.com/app/board/uXjVIMGWVtc=/?share_link_id=181449537556)
 
