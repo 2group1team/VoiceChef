@@ -25,9 +25,9 @@
 * [Правила коммитов](https://github.com/2group1team/VoiceChef/blob/master/Documentation/Commits/README.md)
 
 ### Проверка
-* [Чеклист](https://docs.google.com/spreadsheets/d/1yGnLquVTxPcGxP5yg3C9UTXUARwv2YGHegqEgPNnFWM/edit?gid=116236438#gid=116236438)
+* [Чеклист]([https://docs.google.com/spreadsheets/d/1yGnLquVTxPcGxP5yg3C9UTXUARwv2YGHegqEgPNnFWM/edit?gid=116236438#gid=116236438](https://github.com/2group1team/VoiceChef/blob/master/Documentation/%D0%92%D0%93%D0%A3-%D0%A2%D0%9F.%20%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%201%20%D1%8D%D1%82%D0%B0%D0%BF%202%D0%B31%D0%BA%20-%20%D1%87%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82.pdf))
 * Нас оценили:
-  * [Команда 1.1](https://docs.google.com/spreadsheets/d/1TkkNAfymy03UyZurFbbVLIurNk5RJR-yKNPpU5rKRvw/edit?gid=116236438#gid=116236438)
-  * [Команда 1.2](https://docs.google.com/spreadsheets/d/1N2VNP7KQ8e5stoPP6Exh-BIzoYfDbmXog0uCsfQPa2w/edit?gid=116236438#gid=116236438)
-  * [Команда 1.3](https://docs.google.com/spreadsheets/d/1u5pm8Rp8lp9xEYSzHtrhVUy3dhCtAyKt3cOX3YMu4Kk/edit?gid=116236438#gid=116236438)
+  * [Команда 1.1](https://gitlab.minecraftslaves.duckdns.org/graphontext/markethelp/-/blob/main/specification/check/%D0%92%D0%93%D0%A3-%D0%A2%D0%9F.%20%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%201%20%D1%8D%D1%82%D0%B0%D0%BF%201%D0%B31%D0%BA%20-%20%D1%87%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82.pdf?ref_type=heads)
+  * [Команда 1.2](https://github.com/progerg/Lawly/blob/master/documentation/checklist.pdf)
+  * [Команда 1.3](https://github.com/Aleygv/Fishing_game/blob/main/Documents/%D0%92%D0%93%D0%A3-%D0%A2%D0%9F.%20%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%201%20%D1%8D%D1%82%D0%B0%D0%BF%201%D0%B33%D0%BA%20-%20%D1%87%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82.pdf)
   * [Команда 2.2]()
