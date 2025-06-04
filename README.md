@@ -8,6 +8,11 @@
 * [Кочура Даниил](https://github.com/Kingofthedivanich) - аналитик, backend
 * [Кураков Евгений](https://github.com/Risexxd) - QA, frontend
 * [Аксенова Марина](https://github.com/hhskt) - DevOps, дизайнер
+
+### Репозитории
+* [Backend](https://github.com/2group1team/VoiceChef-Back)
+* [Frontend](https://github.com/2group1team/VoiceChef-Front)
+  
 ### Сервисы
 * [Jira](https://voicechefapp.atlassian.net/jira/core/projects/VC/board?groupBy=status)
   * Аккаунт для просмотра (данные от почты и Jira одинаковы):
