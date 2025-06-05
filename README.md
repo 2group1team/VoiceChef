@@ -8,6 +8,7 @@
 * [Кочура Даниил](https://github.com/Kingofthedivanich) - аналитик, backend
 * [Кураков Евгений](https://github.com/Risexxd) - QA, frontend
 * [Аксенова Марина](https://github.com/hhskt) - DevOps, дизайнер
+* [Ларичев Никита](https://github.com/Nekital360) - QA
 
 ### Репозитории
 * [Backend](https://github.com/2group1team/VoiceChef-Back)
